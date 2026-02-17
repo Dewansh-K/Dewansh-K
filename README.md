@@ -1,16 +1,14 @@
 <h1 align="center">Dewansh</h1>
-<p align="center">
-  Python Developer • Open Source Learner • Systems-Oriented Thinker
-</p>
 
 ---
 
-## About
+## About Me
 
-I work primarily with Python and enjoy building structured, well-documented projects.  
-My focus is on writing clean code, understanding core programming principles, and continuously improving through hands-on development.
+Currently pursuing a <b>BS in Artificial Intelligence and Cybersecurity</b> from <b>IIT Patna</b>.
 
-I believe in depth over shortcuts.
+I’m building a strong foundation in programming and computer science fundamentals, with a focus on writing structured, readable code and understanding concepts deeply rather than superficially.
+
+I am actively improving my problem-solving ability and strengthening my core Python knowledge.
 
 ---
 
@@ -23,32 +21,27 @@ I believe in depth over shortcuts.
 ### Concepts & Tools
 - Object-Oriented Programming
 - NumPy
-- Core Data Structures & Algorithms
+- Data Structures (Foundational)
 
 ### Web Foundations
 - HTML
 - CSS
+- React
+- Node.js
+- MongoDB
 
 ---
 
 ## Current Work
 
-- Building Python-based mini systems and utilities
-- Practicing numerical computation with NumPy
-- Strengthening problem-solving skills
-- Exploring open-source codebases
-
----
-
-## What You’ll Find Here
-
-- Structured projects
-- Clear documentation
-- Consistent commits
-- Experiments that evolve into better systems
+- Strengthening Python fundamentals
+- Practicing numerical computing with NumPy
+- Learning how real-world open source contributions work
+- Building small projects to improve code structure and clarity
 
 ---
 
 ## Connect
 
-LinkedIn: (add link when ready)
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- Portfolio: https://your-portfolio-link.com
