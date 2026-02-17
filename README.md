@@ -48,15 +48,7 @@ I aim to contribute meaningfully to open-source projects and grow through real-w
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
-</p>
-
----
 
 ## 🔍 Open Source Goals
 
