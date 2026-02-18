@@ -55,7 +55,7 @@ My approach is concept-first — depth over shortcuts.
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://your-portfolio-link.com">
+  <a href="https://dewansh-k.github.io/Portfolio-Website.github.io/">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
