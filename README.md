@@ -1,50 +1,46 @@
 <h1 align="center">Dewansh Kumar</h1>
 
-
 ---
+
 <br>
 
 ## About Me
 
-🎓 Currently pursuing a <b>BS in Artificial Intelligence and Cybersecurity</b> from<b> IIT Patna</b>.
+🎓 Currently pursuing a <b>BS in Artificial Intelligence and Cybersecurity</b> from <b>IIT Patna</b>.
 
-I am focused on building strong programming fundamentals and developing structured, maintainable code.  
-My approach is concept-first — depth over shortcuts.
+Focused on writing structured, maintainable code and building systems with clear architecture.  
+I prioritize strong fundamentals, scalability, and practical implementation over shortcuts.
 
 ---
 
 ## Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
-</p>
-
-### 🧠 Concepts & Tools
-<p>
-  <img src="https://img.shields.io/badge/OOP-Concept-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Structures-Foundational-informational?style=for-the-badge"/>
-</p>
-
-### 🌐 Web Foundations
 <p>
   <img src="https://skillicons.dev/icons?i=html" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ---
 
 ## Current Work
 
-- Strengthening Python fundamentals
-- Practicing numerical computing using NumPy
-- Learning how real-world open source contributions function
-- Building structured mini-projects to improve code clarity
+- Building full-stack applications with structured backend architecture  
+- Developing REST APIs using FastAPI and Express  
+- Working with NumPy and Pandas for data analysis workflows  
+- Practicing data visualization and exploratory data analysis  
+- Contributing to open source with focus on code quality and maintainability  
 
 ---
 
